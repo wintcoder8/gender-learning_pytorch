@@ -1,4 +1,4 @@
-# gender-learning_pytorch
+# generative-deep-learning-pytorch
 The code from Generative Deep Learning by David Foster rewritten with PyTorch. 
 
 The book Generative Deep Learning by David Foster [link](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) is an incredible book for learning. Unfortunately it has one major flaw. The code examples are only in TensorFlow which is an outdated framework that is well on its way to be forgotten by the community. 
